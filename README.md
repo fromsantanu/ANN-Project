@@ -4,7 +4,7 @@
 
 # 🟢 **PART 1: Building Intuition**
 
-## **Chapter 1: Understanding the Problem**
+## [**Chapter 1: Understanding the Problem**](#)
 
 * What are we trying to predict?
 * Health dataset (inputs + output)
@@ -14,7 +14,7 @@
 
 ---
 
-## **Chapter 2: How Humans Make Decisions**
+## [**Chapter 2: How Humans Make Decisions**](#)
 
 * Doctor example
 * Combining multiple factors
@@ -23,7 +23,7 @@
 
 ---
 
-## **Chapter 3: What is a Neuron?**
+## [**Chapter 3: What is a Neuron?**](#)
 
 * Neuron as a simple calculator
 
@@ -37,7 +37,7 @@ y = w_1 x_1 + w_2 x_2 + \dots + w_n x_n + b
 
 ---
 
-## **Chapter 4: Activation Function (Adding Intelligence)**
+## [**Chapter 4: Activation Function (Adding Intelligence)**](#)
 
 * Why simple sum is not enough
 * Sigmoid function
@@ -46,7 +46,7 @@ y = w_1 x_1 + w_2 x_2 + \dots + w_n x_n + b
 
 ---
 
-## **Chapter 5: From Neurons to Network**
+## [**Chapter 5: From Neurons to Network**](#)
 
 * Layers:
 
@@ -60,7 +60,7 @@ y = w_1 x_1 + w_2 x_2 + \dots + w_n x_n + b
 
 # 🟡 **PART 2: How Learning Happens**
 
-## **Chapter 6: Forward Pass (Making Prediction)**
+## [**Chapter 6: Forward Pass (Making Prediction)**](#)
 
 * Step-by-step data flow
 
@@ -68,7 +68,7 @@ y = w_1 x_1 + w_2 x_2 + \dots + w_n x_n + b
 
 ---
 
-## **Chapter 7: Measuring Error (Loss Function)**
+## [**Chapter 7: Measuring Error (Loss Function)**](#)
 
 * What is error?
 * Why we need it
@@ -77,7 +77,7 @@ y = w_1 x_1 + w_2 x_2 + \dots + w_n x_n + b
 
 ---
 
-## **Chapter 8: Learning from Mistakes (Backpropagation)**
+## [**Chapter 8: Learning from Mistakes (Backpropagation)**](#)
 
 * Concept only (no heavy math)
 
@@ -86,7 +86,7 @@ Student correcting answers
 
 ---
 
-## **Chapter 9: Training Process**
+## [**Chapter 9: Training Process**](#)
 
 * Loop:
 
@@ -100,14 +100,14 @@ Student correcting answers
 
 # 🔵 **PART 3: Building with PyTorch**
 
-## **Chapter 10: Why PyTorch?**
+## [**Chapter 10: Why PyTorch?**](#)
 
 * Saves effort
 * Handles calculations automatically
 
 ---
 
-## **Chapter 11: Preparing the Dataset**
+## [**Chapter 11: Preparing the Dataset**](#)
 
 * Input (X)
 * Output (y)
@@ -116,7 +116,7 @@ Student correcting answers
 
 ---
 
-## **Chapter 12: Defining the Model**
+## [**Chapter 12: Defining the Model**](#)
 
 * Layers in PyTorch
 
@@ -124,7 +124,7 @@ Student correcting answers
 
 ---
 
-## **Chapter 13: Forward Function in Code**
+## [**Chapter 13: Forward Function in Code**](#)
 
 * How prediction is written
 
@@ -132,7 +132,7 @@ Student correcting answers
 
 ---
 
-## **Chapter 14: Loss Function in Code**
+## [**Chapter 14: Loss Function in Code**](#)
 
 * BCELoss
 
@@ -140,7 +140,7 @@ Student correcting answers
 
 ---
 
-## **Chapter 15: Optimizer**
+## [**Chapter 15: Optimizer**](#)
 
 * SGD explained simply
 
@@ -148,7 +148,7 @@ Student correcting answers
 
 ---
 
-## **Chapter 16: Training Loop**
+## [**Chapter 16: Training Loop**](#)
 
 * Combine everything
 
@@ -158,19 +158,19 @@ Student correcting answers
 
 # 🟣 **PART 4: Results & Understanding**
 
-## **Chapter 17: Making Predictions**
+## [**Chapter 17: Making Predictions**](#)
 
 * Test with new data
 
 ---
 
-## **Chapter 18: Understanding Output**
+## [**Chapter 18: Understanding Output**](#)
 
 * Probability interpretation
 
 ---
 
-## **Chapter 19: Improving the Model**
+## [**Chapter 19: Improving the Model**](#)
 
 * Change neurons
 * Change learning rate
@@ -181,14 +181,14 @@ Student correcting answers
 
 # 🟠 **PART 5: Practice & Extension**
 
-## **Chapter 20: Student Exercises**
+## [**Chapter 20: Student Exercises**](#)
 
 * Modify dataset
 * Change architecture
 
 ---
 
-## **Chapter 21: Mini Projects**
+## [**Chapter 21: Mini Projects**](#)
 
 * Pass/Fail prediction
 * Loan approval
@@ -207,22 +207,3 @@ Student correcting answers
 
 ---
 
-# 💡 One Important Teaching Insight
-
-Each chapter should answer **only one question**:
-
-* Chapter 3 → What is a neuron?
-* Chapter 7 → What is error?
-* Chapter 16 → How does training actually run?
-
-👉 This avoids confusion and overload.
-
----
-
-If you want, next I can:
-
-👉 Write **Chapter 1 in full (student-ready, very simple language)**
-OR
-👉 Create a **complete notebook aligned chapter-by-chapter**
-
-Just tell me 👍
