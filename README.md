@@ -29,7 +29,7 @@
 
 Core idea:
 
-y = w_1 x_1 + w_2 x_2 + \dots + w_n x_n + b
+$y = w_1 x_1 + w_2 x_2 + \dots + w_n x_n + b$
 
 * Simple numerical example
 
