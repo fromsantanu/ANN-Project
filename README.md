@@ -1,4 +1,4 @@
-# 📘 **ANN Tutorial – Python (PyTorch)**
+# 📘 **ANN Biginner Project – Python (PyTorch)**
 
 ---
 
