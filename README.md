@@ -4,7 +4,7 @@
 
 # 🟢 **PART 1: Building Intuition**
 
-## [**Chapter 1: Understanding the Problem**](#)
+## [**Chapter 1: Understanding the Problem**](https://github.com/fromsantanu/ANN-Project/blob/main/Part1/p01.md)
 
 * What are we trying to predict?
 * Health dataset (inputs + output)
@@ -14,7 +14,7 @@
 
 ---
 
-## [**Chapter 2: How Humans Make Decisions**](#)
+## [**Chapter 2: How Humans Make Decisions**](https://github.com/fromsantanu/ANN-Project/blob/main/Part1/p02.md)
 
 * Doctor example
 * Combining multiple factors
@@ -23,7 +23,7 @@
 
 ---
 
-## [**Chapter 3: What is a Neuron?**](#)
+## [**Chapter 3: What is a Neuron?**](https://github.com/fromsantanu/ANN-Project/blob/main/Part1/p03.md)
 
 * Neuron as a simple calculator
 
@@ -37,7 +37,7 @@ y = w_1 x_1 + w_2 x_2 + \dots + w_n x_n + b
 
 ---
 
-## [**Chapter 4: Activation Function (Adding Intelligence)**](#)
+## [**Chapter 4: Activation Function (Adding Intelligence)**](https://github.com/fromsantanu/ANN-Project/blob/main/Part1/p04.md)
 
 * Why simple sum is not enough
 * Sigmoid function
@@ -46,7 +46,7 @@ y = w_1 x_1 + w_2 x_2 + \dots + w_n x_n + b
 
 ---
 
-## [**Chapter 5: From Neurons to Network**](#)
+## [**Chapter 5: From Neurons to Network**](https://github.com/fromsantanu/ANN-Project/blob/main/Part1/p05.md)
 
 * Layers:
 
@@ -60,7 +60,7 @@ y = w_1 x_1 + w_2 x_2 + \dots + w_n x_n + b
 
 # 🟡 **PART 2: How Learning Happens**
 
-## [**Chapter 6: Forward Pass (Making Prediction)**](#)
+## [**Chapter 6: Forward Pass (Making Prediction)**](https://github.com/fromsantanu/ANN-Project/blob/main/Part2/p01.md)
 
 * Step-by-step data flow
 
@@ -68,7 +68,7 @@ y = w_1 x_1 + w_2 x_2 + \dots + w_n x_n + b
 
 ---
 
-## [**Chapter 7: Measuring Error (Loss Function)**](#)
+## [**Chapter 7: Measuring Error (Loss Function)**](https://github.com/fromsantanu/ANN-Project/blob/main/Part2/p02.md)
 
 * What is error?
 * Why we need it
@@ -77,7 +77,7 @@ y = w_1 x_1 + w_2 x_2 + \dots + w_n x_n + b
 
 ---
 
-## [**Chapter 8: Learning from Mistakes (Backpropagation)**](#)
+## [**Chapter 8: Learning from Mistakes (Backpropagation)**](https://github.com/fromsantanu/ANN-Project/blob/main/Part2/p03.md)
 
 * Concept only (no heavy math)
 
@@ -86,7 +86,7 @@ Student correcting answers
 
 ---
 
-## [**Chapter 9: Training Process**](#)
+## [**Chapter 9: Training Process**](https://github.com/fromsantanu/ANN-Project/blob/main/Part2/p04.md)
 
 * Loop:
 
@@ -100,14 +100,14 @@ Student correcting answers
 
 # 🔵 **PART 3: Building with PyTorch**
 
-## [**Chapter 10: Why PyTorch?**](#)
+## [**Chapter 10: Why PyTorch?**](https://github.com/fromsantanu/ANN-Project/blob/main/Part3/p01.md)
 
 * Saves effort
 * Handles calculations automatically
 
 ---
 
-## [**Chapter 11: Preparing the Dataset**](#)
+## [**Chapter 11: Preparing the Dataset**](https://github.com/fromsantanu/ANN-Project/blob/main/Part3/p02.md)
 
 * Input (X)
 * Output (y)
@@ -116,7 +116,7 @@ Student correcting answers
 
 ---
 
-## [**Chapter 12: Defining the Model**](#)
+## [**Chapter 12: Defining the Model**](https://github.com/fromsantanu/ANN-Project/blob/main/Part3/p03.md)
 
 * Layers in PyTorch
 
@@ -124,7 +124,7 @@ Student correcting answers
 
 ---
 
-## [**Chapter 13: Forward Function in Code**](#)
+## [**Chapter 13: Forward Function in Code**](https://github.com/fromsantanu/ANN-Project/blob/main/Part3/p04.md)
 
 * How prediction is written
 
@@ -132,7 +132,7 @@ Student correcting answers
 
 ---
 
-## [**Chapter 14: Loss Function in Code**](#)
+## [**Chapter 14: Loss Function in Code**](https://github.com/fromsantanu/ANN-Project/blob/main/Part3/p05.md)
 
 * BCELoss
 
@@ -140,7 +140,7 @@ Student correcting answers
 
 ---
 
-## [**Chapter 15: Optimizer**](#)
+## [**Chapter 15: Optimizer**](https://github.com/fromsantanu/ANN-Project/blob/main/Part3/p06.md)
 
 * SGD explained simply
 
@@ -148,7 +148,7 @@ Student correcting answers
 
 ---
 
-## [**Chapter 16: Training Loop**](#)
+## [**Chapter 16: Training Loop**](https://github.com/fromsantanu/ANN-Project/blob/main/Part3/p07.md)
 
 * Combine everything
 
@@ -158,19 +158,19 @@ Student correcting answers
 
 # 🟣 **PART 4: Results & Understanding**
 
-## [**Chapter 17: Making Predictions**](#)
+## [**Chapter 17: Making Predictions**](https://github.com/fromsantanu/ANN-Project/blob/main/Part4/p01.md)
 
 * Test with new data
 
 ---
 
-## [**Chapter 18: Understanding Output**](#)
+## [**Chapter 18: Understanding Output**](https://github.com/fromsantanu/ANN-Project/blob/main/Part4/p02.md)
 
 * Probability interpretation
 
 ---
 
-## [**Chapter 19: Improving the Model**](#)
+## [**Chapter 19: Improving the Model**](https://github.com/fromsantanu/ANN-Project/blob/main/Part4/p03.md)
 
 * Change neurons
 * Change learning rate
@@ -181,14 +181,14 @@ Student correcting answers
 
 # 🟠 **PART 5: Practice & Extension**
 
-## [**Chapter 20: Student Exercises**](#)
+## [**Chapter 20: Student Exercises**](https://github.com/fromsantanu/ANN-Project/blob/main/Part5/p01.md)
 
 * Modify dataset
 * Change architecture
 
 ---
 
-## [**Chapter 21: Mini Projects**](#)
+## [**Chapter 21: Mini Projects**](https://github.com/fromsantanu/ANN-Project/blob/main/Part5/p02.md)
 
 * Pass/Fail prediction
 * Loan approval
