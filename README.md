@@ -1,4 +1,4 @@
-# 📘 **ANN Tutorial – Chapter Structure**
+# 📘 **ANN Tutorial – Python (PyTorch)**
 
 ---
 
